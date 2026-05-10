@@ -15,7 +15,7 @@ const C = {
   cream:     "#E8F4F8",
 };
 
-const LOGO = "/website-demo-ehubbasketball/EHUB_logo_2.jpg";
+const LOGO = "/website-demo-ehubbasketball/EHUB%20logo_2.jpg";
 
 // New logo is rectangular — render as a horizontal lockup, no circular crop
 const LogoImg = ({ size = 48, style = {} }) => (
